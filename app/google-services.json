@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309692093537",
+    "project_id": "copd-44e63",
+    "storage_bucket": "copd-44e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309692093537:android:ce9bc381d8937efbe58620",
+        "android_client_info": {
+          "package_name": "com.leo.copd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWS3vlXFtL2wSH37J0CPyGd1Z0WLQ4QRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

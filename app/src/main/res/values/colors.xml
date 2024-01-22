@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_background">#ecefff</color>
+    <color name="color_primary">#3cc9ec </color>
+    <color name="color_secondary">#3e4d50 </color>
+    <color name="color_card_y">#fece2f </color>
+    <color name="color_card_g">#DEDEDE </color>
+    <color name="info_card_g">#b4d6d8 </color>
+</resources>
